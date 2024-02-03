@@ -1,4 +1,4 @@
-package ru.skypro.course_work2;
+package ru.skypro.course_work2.service.impl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
